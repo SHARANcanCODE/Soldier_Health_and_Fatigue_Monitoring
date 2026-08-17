@@ -457,16 +457,4 @@ Recommended next improvements include:
 7. evaluate false positives and detection latency using repeated physical tests;
 8. improve enclosure design for wearable stability and sensor contact quality.
 
----
 
-## License
-
-This project is distributed under the license included in [`LICENSE`](LICENSE).
-
----
-
-## Repository Status
-
-This repository is intended for academic demonstration, project assessment, and future engineering development. It combines embedded firmware, wireless communication, cloud processing, validation evidence, and presentation materials into a single soldier health and safety monitoring system.
-
-> This is an anonymized copy of the original project repository, prepared for review submission. Author names, external demo/presentation links, and source report PDFs have been removed.
